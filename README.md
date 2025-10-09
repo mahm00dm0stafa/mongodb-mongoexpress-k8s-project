@@ -61,4 +61,4 @@ Before deploying, make sure you have:
       ```bash
       kubectl get svc mongo-express-svc
   Open your browser at:
-     http://<NODE-IP>:32000
+     http://NODE-IP:32000
