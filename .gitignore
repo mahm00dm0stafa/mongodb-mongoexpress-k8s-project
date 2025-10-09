@@ -1,0 +1,17 @@
+# Kubernetes generated files
+*.log
+*.tmp
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# Credentials or config backups
+*.secret
+*.bak
+
